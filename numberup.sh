@@ -3,8 +3,8 @@ if [ "$1" == "--help" ]
 then 
     echo "   
           #################################################################################
-                This command is very much useful when you want to quickly rename files 
-                to your desired type in numerical sequence 1.jpg 2.jpg 3.jpg
+             This command is very much useful when you want to quickly rename all the files 
+             in a folder to your desired type in numerical sequence 1.jpg 2.jpg 3.jpg
           #################################################################################"
     echo "
           SYNTAX : numberup --help/type path -v 
